@@ -1,4 +1,4 @@
-package com.procergs.det.gfc.util;
+package com.kopzinski.util;
 
 import java.util.Calendar;
 
