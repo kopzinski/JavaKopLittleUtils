@@ -1,7 +1,7 @@
 package com.kopzinski.util;
 
 import java.util.Calendar;
-
+/* teste edit...*/
 public class Crono {
   
   private Calendar inicio;
